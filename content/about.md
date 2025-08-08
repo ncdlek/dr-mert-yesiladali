@@ -1,45 +1,42 @@
 ---
 title: "Hakkımda"
 date: 2024-01-15
-description: "Dr. Mert Yeşiladalı - Kadın Hastalıkları ve Doğum Uzmanı"
+description: "Doç. Dr. Mert Yeşiladalı - Kalp ve Damar Cerrahisi Uzmanı"
 ---
 
-# Dr. Mert Yeşiladalı
+# Doç. Dr. Mert Yeşiladalı
 
 ## Uzmanlık Alanı
-Kadın Hastalıkları ve Doğum Uzmanı
+Kalp ve Damar Cerrahisi
 
-## Eğitim ve Deneyim
+## Tıbbi İlgi Alanları
+- Minimal İnvaziv ve Robotik Kalp Cerrahisi
+- Kompleks Koroner Bypass Cerrahisi
+- Kalp Kapak Onarımı ve Değişimi
+- Aort Cerrahisi (Açık ve Endovasküler)
+- Karotis (Şah Damarı) Cerrahisi
+- Periferik Damar Cerrahisi
+- Varis Tedavisi (Cerrahi, Lazer, Köpük)
 
-### Eğitim Geçmişi
-- **Tıp Fakültesi**: İstanbul Üniversitesi Tıp Fakültesi
-- **Uzmanlık**: Kadın Hastalıkları ve Doğum Uzmanlığı
-- **Sürekli Eğitim**: Ulusal ve uluslararası kongrelerde aktif katılım
+## Eğitim
+- **2011, Tıpta Uzmanlık**: Kartal Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesi, Kalp ve Damar Cerrahisi
+- **2005, Tıp Doktoru**: İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi
 
-### Çalışma Alanları
-- Gebelik takibi ve doğum
-- Jinekolojik muayene ve tarama
-- Kısırlık tedavisi
-- Miyom tedavisi
-- Jinekolojik ameliyatlar
-- Aile planlaması
+## Deneyim
+- **2021 - Halen**: Yeditepe Üniversitesi Koşuyolu Hastanesi, Kalp ve Damar Cerrahisi
+- **2018 - 2021**: Sağlık Bilimleri Üniversitesi Mehmet Akif Ersoy Göğüs Kalp ve Damar Cerrahisi Eğitim ve Araştırma Hastanesi
+- **2016 - 2018**: Acıbadem Sağlık Grubu
+- **2014 - 2016**: Sağlık Bilimleri Üniversitesi Mehmet Akif Ersoy Göğüs Kalp ve Damar Cerrahisi Eğitim ve Araştırma Hastanesi
+- **2013 - 2014**: Erzurum Bölge Eğitim ve Araştırma Hastanesi
+- **2011 - 2013**: Kartal Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesi
 
-## Felsefe
+## Üyelikler
+- Türk Kalp ve Damar Cerrahisi Derneği
+- Ulusal Vasküler ve Endovasküler Cerrahi Derneği
+- Türk Tabipler Birliği
+- European Association for Cardio-Thoracic Surgery (EACTS)
+- The Society of Thoracic Surgeons (STS)
 
-Modern tıbbın en güncel yöntemlerini kullanarak hastalarıma en iyi sağlık hizmetini sunmaya odaklanıyorum. Her hastanın bireysel ihtiyaçlarını anlayarak, kişiselleştirilmiş tedavi planları hazırlıyorum.
-
-## Hastane Bilgileri
-
-**Çalıştığı Hastane**: Yeditepe Üniversitesi Hastanesi  
-**Adres**: İstanbul  
-**Randevu**: [Hastane Randevu Sistemi](https://yeditepehastaneleri.com/doktorlar/mert-yesiladali)
-
-## İletişim
-
-- **E-posta**: mert.yesiladali@yeditepehastaneleri.com
-- **Telefon**: +90 212 211 40 00
-- **Adres**: Yeditepe Üniversitesi Hastanesi, İstanbul
-
----
-
-*Hastalarımın sağlığı ve güvenliği her zaman önceliğimdir.*
+## Diller
+- Türkçe
+- İngilizce

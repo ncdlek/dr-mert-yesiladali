@@ -1,45 +1,43 @@
 ---
-title: "About"
+title: "About Me"
 date: 2024-01-15
-description: "Dr. Mert Yeşiladalı - Gynecologist and Obstetrician"
+description: "Assoc. Prof. Mert Yeşiladalı - Cardiovascular Surgeon"
 ---
 
-# Dr. Mert Yeşiladalı
+# Assoc. Prof. Mert Yeşiladalı
 
-## Specialty
-Gynecologist and Obstetrician
+## Specialization
+Cardiovascular Surgery
 
-## Education and Experience
+## Medical Interests
+- Minimally Invasive and Robotic Heart Surgery
+- Complex Coronary Artery Bypass Surgery
+- Heart Valve Repair and Replacement
+- Aortic Surgery (Open and Endovascular)
+- Carotid Artery Surgery
+- Peripheral Artery Surgery
+- Varicose Vein Treatment (Surgical, Laser, Foam)
 
-### Educational Background
-- **Medical School**: Istanbul University Faculty of Medicine
-- **Specialization**: Gynecology and Obstetrics
-- **Continuing Education**: Active participation in national and international congresses
+## Education
+- **2011, Specialization in Medicine**: Kartal Koşuyolu Training and Research Hospital, Cardiovascular Surgery
+- **2005, Medical Doctor**: Istanbul University Cerrahpaşa Faculty of Medicine
 
-### Areas of Practice
-- Pregnancy monitoring and delivery
-- Gynecological examination and screening
-- Infertility treatment
-- Fibroid treatment
-- Gynecological surgeries
-- Family planning
+## Experience
+- **2021 - Present**: Yeditepe University Koşuyolu Hospital, Cardiovascular Surgery
+- **2018 - 2021**: University of Health Sciences Mehmet Akif Ersoy Thoracic and Cardiovascular Surgery Training and Research Hospital
+- **2016 - 2018**: Acıbadem Healthcare Group
+- **2014 - 2016**: University of Health Sciences Mehmet Akif Ersoy Thoracic and Cardiovascular Surgery Training and Research Hospital
+- **2013 - 2014**: Erzurum Regional Training and Research Hospital
+- **2011 - 2013**: Kartal Koşuyolu Training and Research Hospital
 
-## Philosophy
+## Memberships
+- Turkish Society of Cardiovascular Surgery
+- Turkish Society for Vascular and Endovascular Surgery
+- Turkish Medical Association
+- European Association for Cardio-Thoracic Surgery (EACTS)
+- The Society of Thoracic Surgeons (STS)
 
-I focus on providing the best healthcare service to my patients using the most current methods of modern medicine. I prepare personalized treatment plans by understanding each patient's individual needs.
+## Languages
+- Turkish
+- English
 
-## Hospital Information
-
-**Hospital**: Yeditepe University Hospital  
-**Address**: Istanbul  
-**Appointment**: [Hospital Appointment System](https://yeditepehastaneleri.com/doktorlar/mert-yesiladali)
-
-## Contact
-
-- **Email**: mert.yesiladali@yeditepehastaneleri.com
-- **Phone**: +90 212 211 40 00
-- **Address**: Yeditepe University Hospital, Istanbul
-
----
-
-*The health and safety of my patients is always my priority.*
